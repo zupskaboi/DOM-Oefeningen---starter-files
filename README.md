@@ -19,6 +19,11 @@ Hier heb ik een form gemaakt in index.html en met behulp van DOM kan ik de lijst
 
 ![afbeelding](https://github.com/zupskaboi/DOM-Oefeningen---starter-files/assets/43807140/8914c8ad-4240-42cd-8485-1ad2c374dc34)
 
+## Gebruik
+Deze app kun je clonen en in je eigen werkomgeving zetten je hoeft verder niks te installeren.
+
+Hier is de online omgeveing(de omgeving doet het helaas niet door een storing dat niet op te lossen is): https://dom-oefeningen-starter-files.vercel.app/
+
 ## Bronnen
 
 https://www.w3schools.com/js/js_htmldom.asp 
