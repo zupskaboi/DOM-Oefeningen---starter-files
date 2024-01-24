@@ -2,6 +2,7 @@
 
 Met deze oefening ben ik bezig geweest met JS DOM opdrachten. Hierin heb ik geleerd hoe ik DOM kan gebruiken om html elementen met javascript te manipuleren zoals li elementen toevoegen of elke eerste item in een lijst eerste item noemen.
 
+## Functies
 Hier laat ik een lijst zien van namen doormiddel van DOM 
 
 ![afbeelding](https://github.com/zupskaboi/DOM-Oefeningen---starter-files/assets/43807140/1a81b311-334e-4b4a-aed8-d386d810fd10)
@@ -18,3 +19,8 @@ Hier heb ik een form gemaakt in index.html en met behulp van DOM kan ik de lijst
 
 ![afbeelding](https://github.com/zupskaboi/DOM-Oefeningen---starter-files/assets/43807140/8914c8ad-4240-42cd-8485-1ad2c374dc34)
 
+## Bronnen
+
+https://www.w3schools.com/js/js_htmldom.asp 
+
+https://stackoverflow.com/questions/4976344/what-is-dom-summary-and-importance 
